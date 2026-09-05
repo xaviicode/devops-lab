@@ -57,3 +57,42 @@ Diagrama que muestra la canalización de entrega continua con fases para entorno
 ensayo y producción, lo que hace hincapié en los procesos de implementación automatizados.
 
 
+Antipatrones comunes de DevOps para evitar:
+
+Enfoque centrado en herramientas: 
+no empiece por comprar herramientas. 
+Comience con la comprensión del estado actual y los resultados deseados.
+
+Transformación Big Bang: 
+evite intentar cambiar todo a la vez. Comience poco a poco y expanda gradualmente.
+
+Silo del equipo de DevOps: 
+no cree un "equipo de DevOps" independiente. DevOps es una práctica, no un rol.
+
+Ignorar la cultura: Los cambios técnicos sin cambios culturales fracasarán. Invertir en personas y procesos.
+
+Omisión de la seguridad: No agregue la seguridad al final. Integre la seguridad en todo (DevSecOps).
+
+Sobre-ingeniería: inicie simple y agregue complejidad solo cuando sea necesario. Evite la optimización prematura.
+
+No ignorar el legado: no abandone los sistemas existentes. Planear estrategias de modernización graduales.
+
+
+Patrones de éxito que adoptar.
+
+Comience con cambios de alto impacto y bajo riesgo: 
+automatice las compilaciones antes de las implementaciones.
+
+Medir todo: 
+establecer líneas base antes de realizar cambios
+
+Error rápido y aprendizaje: 
+Adoptar la experimentación con medidas de seguridad adecuadas
+
+Invertir en automatización: 
+automatización de tareas repetitivas y propensas a errores primero
+
+Crear bucles de retroalimentación: 
+crear mecanismos para aprender tanto de éxitos como de errores
+
+
