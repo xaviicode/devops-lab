@@ -93,6 +93,80 @@ Invertir en automatización:
 automatización de tareas repetitivas y propensas a errores primero
 
 Crear bucles de retroalimentación: 
-crear mecanismos para aprender tanto de éxitos como de errores
+crear mecanismos para aprender tanto de éxitos como de 
+
+
+
+Sugerencias de composición del equipo principal (3-7 personas)
+
+*Ingeniero/jefe de DevOps*
+
+•Responsabilidad principal: 
+arquitectura técnica e implementación de cadenas de herramientas
+
+•Compromiso de tiempo: 
+100% dedicado a la transformación
+
+•Aptitudes: 
+CI/CD, plataformas en la nube, automatización, infraestructura como código
+
+•Métricas de éxito: 
+fiabilidad de la canalización, frecuencia de implementación, tiempo de entrega
+
+*Representante de desarrollo*
+
+•Responsabilidad principal: 
+experiencia del desarrollador y optimización del flujo de trabajo
+
+•Compromiso de tiempo: 
+50-75% (con reposición para tareas operativas)
+
+•Aptitudes: 
+desarrollo de software, prácticas de prueba, calidad del código
+
+•Métricas de éxito: 
+satisfacción del desarrollador, mejoras en la calidad del código
+
+*Representante de operaciones*
+
+•Responsabilidad principal: 
+problemas de infraestructura, seguridad y producción
+
+•Compromiso de tiempo: 
+50-75% (con reposición para tareas operativas)
+
+•Aptitudes: 
+Administración de infraestructuras, supervisión, respuesta a incidentes
+
+•Métricas de éxito: 
+confiabilidad del sistema, MTTR, eficiencia operativa
+
+*Especialista en administración de cambios*
+
+•Responsabilidad principal: 
+transformación cultural y adopción de procesos
+
+•Compromiso de tiempo: 
+75-100% dedicado
+
+•Aptitudes: 
+Psicología organizativa, formación, comunicación
+
+•Métricas de éxito: 
+tasas de adopción, puntuaciones de evaluación cultural
+
+*Representante de productos o negocios*
+
+•Responsabilidad principal: 
+alineación del valor empresarial y comunicación de las partes interesadas
+
+•Compromiso de tiempo: 
+25-50% (rol de asesoramiento)
+
+•Aptitudes: 
+Análisis de negocios, administración de partes interesadas, métricas
+
+•Métricas de éxito: 
+mejoras en los resultados empresariales, satisfacción de las partes interesadas
 
 
